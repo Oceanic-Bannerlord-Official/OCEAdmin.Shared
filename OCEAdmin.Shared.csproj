@@ -65,6 +65,7 @@
     <Compile Include="Network\FromClient\ClientRequestAuth.cs" />
     <Compile Include="Network\FromClient\ClientRequestCommand.cs" />
     <Compile Include="Network\FromClient\ClientRequestMission.cs" />
+    <Compile Include="Network\FromClient\ClientRequestSwapSides.cs" />
     <Compile Include="Network\FromClient\ClientRequestSync.cs" />
     <Compile Include="Network\FromClient\ClientUpdateMapTime.cs" />
     <Compile Include="Network\FromClient\ClientRequestEndWarmup.cs" />
